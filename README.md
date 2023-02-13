@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamharshit188" target="blank"><img src="https://img.shields.io/twitter/follow/iamharshit188?logo=twitter&style=for-the-badge" alt="iamharshit188" /></a> </p>
 
-- 🌱 I’m currently learning **C language and Linuxm**
+- 🌱 I’m currently learning **C language and Linux**
 
 - 👨‍💻 All of my projects are available at [https://iamharshit188.github.io/Portfolio_for_linux_geeks/](https://iamharshit188.github.io/Portfolio_for_linux_geeks/)
 
